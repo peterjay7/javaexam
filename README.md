@@ -1,3 +1,7 @@
+## 설명
+
+## 이것은 로컬에서 생성한 VScode java프로젝트(javaexam)를 그대로 올린것이다.
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
