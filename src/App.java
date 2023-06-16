@@ -9,5 +9,8 @@ public class App {
         Parent p2 = new Child();
         p2.say();
 
+        Calc cc = new Calc();
+        System.out.println("add=" + cc.add(5, 16));
+
     }
 }
