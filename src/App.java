@@ -12,5 +12,7 @@ public class App {
         Calc cc = new Calc();
         System.out.println("add=" + cc.add(5, 16));
 
+        StaticMethod.doSay();
+
     }
 }
