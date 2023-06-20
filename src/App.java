@@ -13,6 +13,7 @@ public class App {
         System.out.println("add=" + cc.add(5, 16));
 
         StaticMethod.doSay();
+        System.out.println(StaticMethod.doSum(12.1, 23.5));
 
     }
 }
