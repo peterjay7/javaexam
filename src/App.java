@@ -40,6 +40,7 @@ public class App {
         // ffi = 4; // final 이후에는 변경 불가
 
         System.out.println(" ff= " + ff + ", dd= " + dd + ffi);
+        StaticMethod.doTest();
 
     }
 
